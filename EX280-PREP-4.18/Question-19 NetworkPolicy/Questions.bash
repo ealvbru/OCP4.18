@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 19: Create a NetworkPolicy                                       ║
-║  Domain: Networking & Security                                             ║
-║  Weight: 7%                                                                ║
+║  QUESTION 19: Create a NetworkPolicy                                         ║
+║  Domain: Networking & Security                                               ║
+║  Weight: 7%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
