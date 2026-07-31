@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 1: Configure an HTPasswd Identity Provider                       ║
-║  Domain: Authentication & Authorization                                    ║
-║  Weight: 7%                                                                ║
+║  QUESTION 1: Configure an HTPasswd Identity Provider                         ║
+║  Domain: Authentication & Authorization                                      ║
+║  Weight: 7%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
