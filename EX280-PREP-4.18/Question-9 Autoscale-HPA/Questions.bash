@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 9: Autoscale an Application (HPA)                                ║
-║  Domain: Application Management                                            ║
-║  Weight: 5%                                                                ║
+║  QUESTION 9: Autoscale an Application (HPA)                                  ║
+║  Domain: Application Management                                              ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
