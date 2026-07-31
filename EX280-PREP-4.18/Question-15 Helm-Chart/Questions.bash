@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 15: Install a Helm Chart                                         ║
-║  Domain: Application Deployment                                            ║
-║  Weight: 5%                                                                ║
+║  QUESTION 15: Install a Helm Chart                                           ║
+║  Domain: Application Deployment                                              ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
