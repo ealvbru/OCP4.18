@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 21: Configure a Project Template                                 ║
-║  Domain: Cluster Configuration                                             ║
-║  Weight: 5%                                                                ║
+║  QUESTION 21: Configure a Project Template                                   ║
+║  Domain: Cluster Configuration                                               ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
