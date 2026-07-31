@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 7: Deploy an Application with Route                              ║
-║  Domain: Application Deployment                                            ║
-║  Weight: 5%                                                                ║
+║  QUESTION 7: Deploy an Application with Route                                ║
+║  Domain: Application Deployment                                              ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
