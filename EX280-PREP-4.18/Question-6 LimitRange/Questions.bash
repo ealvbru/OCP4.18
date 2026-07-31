@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 6: Configure LimitRange                                          ║
-║  Domain: Resource Management                                               ║
-║  Weight: 5%                                                                ║
+║  QUESTION 6: Configure LimitRange                                            ║
+║  Domain: Resource Management                                                 ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
