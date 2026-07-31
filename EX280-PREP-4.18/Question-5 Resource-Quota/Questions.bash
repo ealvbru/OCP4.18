@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 5: Configure Resource Quotas                                     ║
-║  Domain: Resource Management                                               ║
-║  Weight: 5%                                                                ║
+║  QUESTION 5: Configure Resource Quotas                                       ║
+║  Domain: Resource Management                                                 ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
