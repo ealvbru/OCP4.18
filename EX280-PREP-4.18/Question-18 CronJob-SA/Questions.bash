@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 18: Configure a CronJob with Service Account                     ║
-║  Domain: Workload Management                                               ║
-║  Weight: 5%                                                                ║
+║  QUESTION 18: Configure a CronJob with Service Account                       ║
+║  Domain: Workload Management                                                 ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
