@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 12: Use a Secret in an Application                               ║
-║  Domain: Configuration & Secrets                                           ║
-║  Weight: 4%                                                                ║
+║  QUESTION 12: Use a Secret in an Application                                 ║
+║  Domain: Configuration & Secrets                                             ║
+║  Weight: 4%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
