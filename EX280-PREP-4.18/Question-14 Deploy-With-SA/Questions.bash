@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 14: Deploy Application with Service Account                      ║
-║  Domain: Application Deployment & Security                                 ║
-║  Weight: 4%                                                                ║
+║  QUESTION 14: Deploy Application with Service Account                        ║
+║  Domain: Application Deployment & Security                                   ║
+║  Weight: 4%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
