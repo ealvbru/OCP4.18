@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 11: Create a Secret                                              ║
-║  Domain: Configuration & Secrets                                           ║
-║  Weight: 4%                                                                ║
+║  QUESTION 11: Create a Secret                                                ║
+║  Domain: Configuration & Secrets                                             ║
+║  Weight: 4%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
