@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 17: Configure a Liveness Probe                                   ║
-║  Domain: Application Health                                                ║
-║  Weight: 5%                                                                ║
+║  QUESTION 17: Configure a Liveness Probe                                     ║
+║  Domain: Application Health                                                  ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
