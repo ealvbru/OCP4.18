@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 4: Configure Groups                                              ║
-║  Domain: Authorization & RBAC                                              ║
-║  Weight: 5%                                                                ║
+║  QUESTION 4: Configure Groups                                                ║
+║  Domain: Authorization & RBAC                                                ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
