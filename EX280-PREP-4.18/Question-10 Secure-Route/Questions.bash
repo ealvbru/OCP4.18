@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 10: Configure a Secure Route (Edge TLS)                          ║
-║  Domain: Networking & Routes                                               ║
-║  Weight: 7%                                                                ║
+║  QUESTION 10: Configure a Secure Route (Edge TLS)                            ║
+║  Domain: Networking & Routes                                                 ║
+║  Weight: 7%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
