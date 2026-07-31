@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 13: Configure a Service Account with SCC                         ║
-║  Domain: Security                                                          ║
-║  Weight: 5%                                                                ║
+║  QUESTION 13: Configure a Service Account with SCC                           ║
+║  Domain: Security                                                            ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
