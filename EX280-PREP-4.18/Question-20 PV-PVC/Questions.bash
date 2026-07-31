@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 20: Create a PersistentVolume and PersistentVolumeClaim          ║
-║  Domain: Storage                                                           ║
-║  Weight: 7%                                                                ║
+║  QUESTION 20: Create a PersistentVolume and PersistentVolumeClaim            ║
+║  Domain: Storage                                                             ║
+║  Weight: 7%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
