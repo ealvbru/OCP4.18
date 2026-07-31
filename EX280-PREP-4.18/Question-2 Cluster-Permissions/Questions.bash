@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 2: Configure Cluster Permissions                                 ║
-║  Domain: Authorization & RBAC                                              ║
-║  Weight: 7%                                                                ║
+║  QUESTION 2: Configure Cluster Permissions                                   ║
+║  Domain: Authorization & RBAC                                                ║
+║  Weight: 7%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
