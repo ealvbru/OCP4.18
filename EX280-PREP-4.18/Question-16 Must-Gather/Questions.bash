@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 16: Collect Cluster Information (must-gather)                    ║
-║  Domain: Cluster Maintenance                                               ║
-║  Weight: 3%                                                                ║
+║  QUESTION 16: Collect Cluster Information (must-gather)                      ║
+║  Domain: Cluster Maintenance                                                 ║
+║  Weight: 3%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
