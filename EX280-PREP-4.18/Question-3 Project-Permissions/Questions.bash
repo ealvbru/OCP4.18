@@ -1,9 +1,9 @@
 #!/bin/bash
 cat << 'QUESTION'
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  QUESTION 3: Configure Project Permissions                                 ║
-║  Domain: Authorization & RBAC                                              ║
-║  Weight: 5%                                                                ║
+║  QUESTION 3: Configure Project Permissions                                   ║
+║  Domain: Authorization & RBAC                                                ║
+║  Weight: 5%                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 SIMULATION
